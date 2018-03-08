@@ -1,0 +1,6 @@
+﻿  Notas.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\programación iii\práctica i y ii parcial\ejercicioarchivos\ejercicioarchivos\notas.cpp(246): warning C4101: 'edad': variable local sin referencia
+  main.cpp
+  Generando código...
+c:\users\florentino garcia\desktop\universidad\unitec\programación iii\práctica i y ii parcial\ejercicioarchivos\ejercicioarchivos\notas.cpp(400): warning C4715: 'Notas::ObtenerPromedioAlumno': no todas las rutas de acceso de control devuelven un valor
+  EjercicioArchivos.vcxproj -> C:\Users\FLORENTINO GARCIA\Desktop\Universidad\UNITEC\Programación III\Práctica I y II Parcial\EjercicioArchivos\Debug\EjercicioArchivos.exe

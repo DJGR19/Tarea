@@ -1,0 +1,4 @@
+12 Espaniol 
+11 Estadistica 
+14 Aleman 
+15 Frances 

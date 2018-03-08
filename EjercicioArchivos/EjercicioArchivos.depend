@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520313803 source:c:\users\florentino garcia\desktop\universidad\unitec\programación iii\práctica i y ii parcial\ejercicioarchivos\ejercicioarchivos\main.cpp
+	"Notas.h"
+	<conio.h>
+	<iostream>
+
+1520267972 c:\users\florentino garcia\desktop\universidad\unitec\programación iii\práctica i y ii parcial\ejercicioarchivos\ejercicioarchivos\notas.h
+
+1520313878 source:c:\users\florentino garcia\desktop\universidad\unitec\programación iii\práctica i y ii parcial\ejercicioarchivos\ejercicioarchivos\notas.cpp
+	"Notas.h"
+	<fstream>
+	<iostream>
+
